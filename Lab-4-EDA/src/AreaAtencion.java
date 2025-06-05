@@ -14,7 +14,7 @@ public class AreaAtencion {
         return capacidadMaxima;
     }
     void ingresarPaciente(Paciente p) {
-     PacienteHeap.add(p);
+        PacienteHeap.add(p);
     }
     boolean estaSaturada(){
         return false;

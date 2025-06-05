@@ -8,40 +8,36 @@ public class Paciente {
     String estado; // espera/atencion/atendido
     String area; // SAPU/Urgencia infantil/Urgencia adulto
     Stack<String> historialCambios;
-    Paciente(String nombre, String apellido, String rut, int categoria, String estado, String area) {
+    Paciente(String nombre, String apellido, String rut, int categoria, String estado, String area, long tiempoLlegada) {
         this.nombre = nombre;
         this.apellido = apellido;
         this.rut = rut;
         this.categoria = categoria;
-        this.estado = estado;
+        this.estado = "En espera";
         this.area = area;
+        this.tiempoLlegada = (System.currentTimeMillis() / 1000);
         historialCambios = new Stack<>();
     }
-    String getNombre() {
-        return nombre;
+    public long tiempoEsperaActual(){
+    return (System.currentTimeMillis() / 1000 - tiempoLlegada) / 60;
     }
-    String getApellido() {
-        return apellido;
+    public void registrarCambio(String descripcion){
+    historialCambios.push(descripcion);
     }
-    String getRut() {
-        return rut;
+    public String obtenerUltimoCambio(){
+        if(historialCambios.isEmpty()){
+            return "No hay cambios";
+        }
+        else{
+            return historialCambios.pop();
+        }
     }
-    int getCategoria() {
-        return categoria;
-    }
-    long getTiempoLlegada() {
-        return tiempoLlegada;
-    }
-    String getEstado() {
-        return estado;
-    }
-    String getArea() {
-        return area;
-    }
-    long tiempoEsperaActual(){
-    }
-    void registrarCambio(String descripcion){
-    }
-    String obtenerUltimoCambio(){
-    }
+    //Código para nosotros (extra)
+    public String getNombre() {return nombre;}
+    public String getApellido() {return apellido;}
+    public String getRut() {return rut;}
+    public int getCategoria() {return categoria;}
+    public long getTiempoLlegada() {return tiempoLlegada;}
+    public String getEstado() {return estado;}
+    public String getArea() {return area;}
 }
