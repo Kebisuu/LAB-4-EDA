@@ -130,7 +130,7 @@ public class SimulacionUrgencias {
             return;
         }
         SimulacionUrgencias simulador = new SimulacionUrgencias(pacientes);
-        simulador.simular(144); // 144 pacientes por día (ajusta si lo necesitas)
+        simulador.simular(144);
     }
     public static List<Paciente> cargarPacientesDesdeArchivo(String nombreArchivo) {
         List<Paciente> lista = new ArrayList<>();
