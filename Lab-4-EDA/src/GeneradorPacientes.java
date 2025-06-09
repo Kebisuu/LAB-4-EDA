@@ -48,6 +48,6 @@ public class GeneradorPacientes {
     }
     public static void main(String[] args) {
         List<Paciente> pacientes = generarPacientes(144);
-        guardarPacientesEnArchivo(pacientes, "pepesillos.csv");
+        guardarPacientesEnArchivo(pacientes, "Pacientes_24h.txt");
     }
 }

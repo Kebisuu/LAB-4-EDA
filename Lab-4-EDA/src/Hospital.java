@@ -1,9 +1,9 @@
 import java.util.*;
 public class Hospital {
-    private Map<String, Paciente> pacientesTotales;
-    private PriorityQueue<Paciente> colaAtencion;
-    private Map<String, AreaAtencion> areasAtencion;
-    private List<Paciente> pacientesAtendidos;
+    public Map<String, Paciente> pacientesTotales;
+    public PriorityQueue<Paciente> colaAtencion;
+    public Map<String, AreaAtencion> areasAtencion;
+    public List<Paciente> pacientesAtendidos;
     public Hospital() {
         pacientesTotales = new HashMap<>();
         colaAtencion = new PriorityQueue<>((p1,p2) -> {
@@ -17,7 +17,7 @@ public class Hospital {
     public void registrarPaciente(Paciente p) {
         pacientesTotales.put(p.getRut(), p);
         colaAtencion.offer(p);
-        System.out.println("Paciente registrado: " + p);
+        System.out.println("Paciente registrado: " + p.getNombre() + p.getApellido());
     }
     public void reasignarCategoria(String rut, int nuevaCategoria){
         Paciente p = pacientesTotales.get(rut);

@@ -1,156 +1,156 @@
 --- Pacientes Atendidos ---
-Nombre: Joaquin Oyarzun | Rut: 0-1 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Eduardo Uribe | Rut: 1-2 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Vicente Allende | Rut: 2-3 | Cat: 4 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Vicente Oyarzun | Rut: 3-4 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Jeremias Artes | Rut: 4-5 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Benjamin Oyarzun | Rut: 5-6 | Cat: 4 | Área: SAPU | Espera: 10 min
-Nombre: Martin Saldias | Rut: 6-7 | Cat: 3 | Área: Urgencias_Adultos | Espera: 15 min
-Nombre: Matias Oyarzun | Rut: 7-8 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Benjamin Quezada | Rut: 8-9 | Cat: 4 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Vicente Quezada | Rut: 9-10 | Cat: 3 | Área: SAPU | Espera: 15 min
-Nombre: Jeremias Quezada | Rut: 10-11 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Eduardo Utreras | Rut: 11-12 | Cat: 2 | Área: SAPU | Espera: 10 min
-Nombre: Matias Oyarzun | Rut: 12-13 | Cat: 4 | Área: SAPU | Espera: 15 min
-Nombre: Eduardo Quezada | Rut: 13-14 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Isaac Quezada | Rut: 14-15 | Cat: 4 | Área: SAPU | Espera: 10 min
-Nombre: Diego Quezada | Rut: 16-17 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 5 min
-Nombre: Jeremias Valenzuela | Rut: 15-16 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 20 min
-Nombre: Matias Saldias | Rut: 17-18 | Cat: 5 | Área: SAPU | Espera: 10 min
-Nombre: Diego Artes | Rut: 18-19 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Vicente Quezada | Rut: 19-20 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Benjamin Uribe | Rut: 20-21 | Cat: 4 | Área: SAPU | Espera: 10 min
-Nombre: Diego Oyarzun | Rut: 21-22 | Cat: 2 | Área: Urgencias_Adultos | Espera: 15 min
-Nombre: Isaac Valenzuela | Rut: 22-23 | Cat: 4 | Área: SAPU | Espera: 10 min
-Nombre: Isaac Artes | Rut: 23-24 | Cat: 3 | Área: SAPU | Espera: 10 min
-Nombre: Nicolas Estay | Rut: 24-25 | Cat: 4 | Área: Urgencias_Adultos | Espera: 15 min
-Nombre: Benjamin Matthei | Rut: 25-26 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Matias Estay | Rut: 26-27 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Eduardo Valenzuela | Rut: 27-28 | Cat: 4 | Área: Urgencias_Adultos | Espera: 15 min
-Nombre: Matias Saldias | Rut: 28-29 | Cat: 5 | Área: SAPU | Espera: 10 min
-Nombre: Martin Quezada | Rut: 29-30 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Isaac Pinochet | Rut: 30-31 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Joaquin Utreras | Rut: 31-32 | Cat: 4 | Área: SAPU | Espera: 10 min
-Nombre: Rodrigo Quezada | Rut: 32-33 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Nicolas Utreras | Rut: 33-34 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Martin Pinochet | Rut: 34-35 | Cat: 3 | Área: SAPU | Espera: 10 min
-Nombre: Joaquin Quezada | Rut: 35-36 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Matias Utreras | Rut: 36-37 | Cat: 4 | Área: Urgencias_Adultos | Espera: 15 min
-Nombre: Jeremias Saldias | Rut: 37-38 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Nicolas Valenzuela | Rut: 38-39 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Jeremias Uribe | Rut: 39-40 | Cat: 3 | Área: Urgencias_Adultos | Espera: 15 min
-Nombre: Joaquin Estay | Rut: 40-41 | Cat: 5 | Área: SAPU | Espera: 10 min
-Nombre: Benjamin Uribe | Rut: 41-42 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Matias Valenzuela | Rut: 43-44 | Cat: 3 | Área: SAPU | Espera: 5 min
-Nombre: Nicolas Artes | Rut: 42-43 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 20 min
-Nombre: Martin Matthei | Rut: 44-45 | Cat: 1 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Vicente Allende | Rut: 45-46 | Cat: 2 | Área: SAPU | Espera: 15 min
-Nombre: Vicente Valenzuela | Rut: 46-47 | Cat: 3 | Área: SAPU | Espera: 10 min
-Nombre: Rodrigo Quezada | Rut: 47-48 | Cat: 5 | Área: SAPU | Espera: 10 min
-Nombre: Isaac Uribe | Rut: 48-49 | Cat: 5 | Área: Urgencias_Adultos | Espera: 15 min
-Nombre: Benjamin Matthei | Rut: 49-50 | Cat: 5 | Área: SAPU | Espera: 10 min
-Nombre: Matias Saldias | Rut: 50-51 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Benjamin Artes | Rut: 51-52 | Cat: 3 | Área: Urgencias_Adultos | Espera: 15 min
-Nombre: Martin Saldias | Rut: 52-53 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Benjamin Quezada | Rut: 53-54 | Cat: 4 | Área: SAPU | Espera: 10 min
-Nombre: Nicolas Oyarzun | Rut: 55-56 | Cat: 4 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Vicente Allende | Rut: 54-55 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 20 min
-Nombre: Nicolas Saldias | Rut: 56-57 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Martin Saldias | Rut: 58-59 | Cat: 3 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Nicolas Saldias | Rut: 57-58 | Cat: 4 | Área: SAPU | Espera: 20 min
-Nombre: Matias Saldias | Rut: 59-60 | Cat: 2 | Área: SAPU | Espera: 10 min
-Nombre: Martin Estay | Rut: 60-61 | Cat: 3 | Área: Urgencias_Adultos | Espera: 15 min
-Nombre: Vicente Quezada | Rut: 61-62 | Cat: 3 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Eduardo Saldias | Rut: 62-63 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Joaquin Pinochet | Rut: 63-64 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Joaquin Saldias | Rut: 64-65 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Isaac Matthei | Rut: 65-66 | Cat: 4 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Nicolas Pinochet | Rut: 66-67 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Diego Oyarzun | Rut: 67-68 | Cat: 4 | Área: SAPU | Espera: 10 min
-Nombre: Matias Uribe | Rut: 68-69 | Cat: 2 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Rodrigo Estay | Rut: 70-71 | Cat: 3 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Matias Pinochet | Rut: 69-70 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 20 min
-Nombre: Vicente Quezada | Rut: 71-72 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Matias Estay | Rut: 72-73 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Jeremias Utreras | Rut: 73-74 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Rodrigo Saldias | Rut: 74-75 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Benjamin Uribe | Rut: 75-76 | Cat: 1 | Área: SAPU | Espera: 11 min
-Nombre: Matias Saldias | Rut: 76-77 | Cat: 1 | Área: SAPU | Espera: 5 min
-Nombre: Nicolas Uribe | Rut: 77-78 | Cat: 4 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Vicente Quezada | Rut: 78-79 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Matias Pinochet | Rut: 80-81 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Benjamin Allende | Rut: 79-80 | Cat: 3 | Área: Urgencias_Adultos | Espera: 20 min
-Nombre: Rodrigo Utreras | Rut: 81-82 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Rodrigo Matthei | Rut: 83-84 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Matias Pinochet | Rut: 82-83 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 20 min
-Nombre: Benjamin Utreras | Rut: 85-86 | Cat: 3 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Eduardo Pinochet | Rut: 86-87 | Cat: 3 | Área: SAPU | Espera: 10 min
-Nombre: Nicolas Quezada | Rut: 84-85 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 30 min
-Nombre: Diego Valenzuela | Rut: 87-88 | Cat: 3 | Área: Urgencias_Infantiles | Espera: 15 min
-Nombre: Vicente Uribe | Rut: 89-90 | Cat: 1 | Área: SAPU | Espera: 10 min
-Nombre: Martin Valenzuela | Rut: 88-89 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 20 min
-Nombre: Diego Uribe | Rut: 90-91 | Cat: 1 | Área: Urgencias_Adultos | Espera: 11 min
-Nombre: Martin Valenzuela | Rut: 91-92 | Cat: 4 | Área: SAPU | Espera: 5 min
-Nombre: Benjamin Quezada | Rut: 92-93 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Diego Estay | Rut: 93-94 | Cat: 3 | Área: SAPU | Espera: 10 min
-Nombre: Isaac Valenzuela | Rut: 94-95 | Cat: 3 | Área: SAPU | Espera: 5 min
-Nombre: Nicolas Matthei | Rut: 95-96 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Isaac Estay | Rut: 96-97 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Isaac Quezada | Rut: 97-98 | Cat: 5 | Área: SAPU | Espera: 5 min
-Nombre: Jeremias Saldias | Rut: 98-99 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Vicente Valenzuela | Rut: 99-100 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Jeremias Valenzuela | Rut: 100-101 | Cat: 3 | Área: SAPU | Espera: 5 min
-Nombre: Jeremias Artes | Rut: 101-102 | Cat: 2 | Área: SAPU | Espera: 10 min
-Nombre: Martin Artes | Rut: 102-103 | Cat: 4 | Área: SAPU | Espera: 10 min
-Nombre: Nicolas Pinochet | Rut: 103-104 | Cat: 3 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Joaquin Artes | Rut: 104-105 | Cat: 1 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Benjamin Oyarzun | Rut: 105-106 | Cat: 2 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Joaquin Saldias | Rut: 106-107 | Cat: 4 | Área: SAPU | Espera: 5 min
-Nombre: Jeremias Pinochet | Rut: 107-108 | Cat: 3 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Vicente Quezada | Rut: 108-109 | Cat: 5 | Área: SAPU | Espera: 10 min
-Nombre: Benjamin Oyarzun | Rut: 109-110 | Cat: 5 | Área: SAPU | Espera: 5 min
-Nombre: Isaac Artes | Rut: 110-111 | Cat: 3 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Isaac Artes | Rut: 111-112 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Joaquin Utreras | Rut: 112-113 | Cat: 3 | Área: Urgencias_Infantiles | Espera: 5 min
-Nombre: Eduardo Saldias | Rut: 113-114 | Cat: 5 | Área: SAPU | Espera: 10 min
-Nombre: Matias Estay | Rut: 114-115 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Benjamin Matthei | Rut: 115-116 | Cat: 3 | Área: SAPU | Espera: 5 min
-Nombre: Martin Artes | Rut: 116-117 | Cat: 2 | Área: SAPU | Espera: 10 min
-Nombre: Matias Saldias | Rut: 117-118 | Cat: 5 | Área: SAPU | Espera: 10 min
-Nombre: Jeremias Uribe | Rut: 118-119 | Cat: 4 | Área: Urgencias_Infantiles | Espera: 5 min
-Nombre: Eduardo Pinochet | Rut: 119-120 | Cat: 1 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Vicente Utreras | Rut: 120-121 | Cat: 1 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Jeremias Artes | Rut: 121-122 | Cat: 4 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Vicente Matthei | Rut: 122-123 | Cat: 3 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Diego Valenzuela | Rut: 123-124 | Cat: 5 | Área: SAPU | Espera: 10 min
-Nombre: Eduardo Artes | Rut: 124-125 | Cat: 5 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Benjamin Pinochet | Rut: 125-126 | Cat: 5 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Rodrigo Saldias | Rut: 126-127 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Rodrigo Saldias | Rut: 127-128 | Cat: 2 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Diego Oyarzun | Rut: 128-129 | Cat: 1 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Diego Matthei | Rut: 129-130 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 10 min
-Nombre: Diego Uribe | Rut: 130-131 | Cat: 5 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Isaac Saldias | Rut: 131-132 | Cat: 1 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Joaquin Valenzuela | Rut: 132-133 | Cat: 3 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Matias Utreras | Rut: 133-134 | Cat: 2 | Área: SAPU | Espera: 5 min
-Nombre: Matias Estay | Rut: 134-135 | Cat: 2 | Área: SAPU | Espera: 10 min
-Nombre: Diego Quezada | Rut: 135-136 | Cat: 5 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Jeremias Valenzuela | Rut: 136-137 | Cat: 4 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Rodrigo Allende | Rut: 137-138 | Cat: 4 | Área: Urgencias_Adultos | Espera: 10 min
-Nombre: Martin Estay | Rut: 138-139 | Cat: 3 | Área: SAPU | Espera: 10 min
-Nombre: Jeremias Valenzuela | Rut: 139-140 | Cat: 3 | Área: Urgencias_Adultos | Espera: 5 min
-Nombre: Eduardo Matthei | Rut: 140-141 | Cat: 4 | Área: SAPU | Espera: 10 min
-Nombre: Isaac Allende | Rut: 141-142 | Cat: 3 | Área: SAPU | Espera: 10 min
-Nombre: Matias Estay | Rut: 142-143 | Cat: 4 | Área: SAPU | Espera: 5 min
-Nombre: Jeremias Estay | Rut: 143-144 | Cat: 2 | Área: Urgencias_Infantiles | Espera: 10 min
+Nombre: Joaquin Pinochet | Rut: 0-1 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Jeremias Matthei | Rut: 1-2 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Vicente Valenzuela | Rut: 2-3 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Martin Valenzuela | Rut: 4-5 | Cat: 2 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Joaquin Matthei | Rut: 3-4 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Rodrigo Quezada | Rut: 5-6 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Martin Quezada | Rut: 6-7 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Martin Allende | Rut: 7-8 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Matias Artes | Rut: 8-9 | Cat: 2 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Martin Oyarzun | Rut: 9-10 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Jeremias Oyarzun | Rut: 10-11 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Benjamin Uribe | Rut: 11-12 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Diego Uribe | Rut: 12-13 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Eduardo Uribe | Rut: 13-14 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Matias Oyarzun | Rut: 14-15 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Matias Saldias | Rut: 16-17 | Cat: 3 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Rodrigo Artes | Rut: 15-16 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Vicente Oyarzun | Rut: 17-18 | Cat: 3 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Jeremias Uribe | Rut: 18-19 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Vicente Estay | Rut: 19-20 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Diego Matthei | Rut: 20-21 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Vicente Estay | Rut: 22-23 | Cat: 3 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Rodrigo Estay | Rut: 21-22 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Eduardo Uribe | Rut: 23-24 | Cat: 2 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Matias Saldias | Rut: 25-26 | Cat: 3 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Nicolas Utreras | Rut: 24-25 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Martin Allende | Rut: 26-27 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Diego Utreras | Rut: 27-28 | Cat: 3 | Área: SAPU | Estado: atendido
+Nombre: Rodrigo Pinochet | Rut: 28-29 | Cat: 3 | Área: SAPU | Estado: atendido
+Nombre: Isaac Estay | Rut: 29-30 | Cat: 3 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Matias Estay | Rut: 31-32 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Joaquin Allende | Rut: 30-31 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Isaac Artes | Rut: 32-33 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Martin Pinochet | Rut: 33-34 | Cat: 2 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Jeremias Valenzuela | Rut: 34-35 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Isaac Quezada | Rut: 35-36 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Isaac Estay | Rut: 36-37 | Cat: 2 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Rodrigo Uribe | Rut: 37-38 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Benjamin Quezada | Rut: 38-39 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Rodrigo Valenzuela | Rut: 40-41 | Cat: 3 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Martin Uribe | Rut: 39-40 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Isaac Valenzuela | Rut: 41-42 | Cat: 2 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Eduardo Allende | Rut: 42-43 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Martin Uribe | Rut: 43-44 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Diego Estay | Rut: 44-45 | Cat: 1 | Área: SAPU | Estado: atendido
+Nombre: Benjamin Matthei | Rut: 45-46 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Benjamin Pinochet | Rut: 46-47 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Vicente Utreras | Rut: 47-48 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Nicolas Pinochet | Rut: 49-50 | Cat: 3 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Joaquin Pinochet | Rut: 48-49 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Rodrigo Artes | Rut: 50-51 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Jeremias Artes | Rut: 51-52 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Eduardo Matthei | Rut: 52-53 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Diego Allende | Rut: 53-54 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Rodrigo Matthei | Rut: 54-55 | Cat: 2 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Matias Matthei | Rut: 55-56 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Rodrigo Saldias | Rut: 56-57 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Joaquin Pinochet | Rut: 57-58 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Vicente Oyarzun | Rut: 58-59 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Benjamin Oyarzun | Rut: 59-60 | Cat: 1 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Rodrigo Uribe | Rut: 61-62 | Cat: 3 | Área: SAPU | Estado: atendido
+Nombre: Matias Quezada | Rut: 60-61 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Matias Matthei | Rut: 62-63 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Rodrigo Utreras | Rut: 63-64 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Vicente Saldias | Rut: 64-65 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Martin Saldias | Rut: 65-66 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Isaac Matthei | Rut: 67-68 | Cat: 2 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Diego Estay | Rut: 66-67 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Rodrigo Oyarzun | Rut: 68-69 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Martin Saldias | Rut: 69-70 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Diego Uribe | Rut: 70-71 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Rodrigo Quezada | Rut: 71-72 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Benjamin Quezada | Rut: 72-73 | Cat: 3 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Diego Utreras | Rut: 73-74 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Diego Matthei | Rut: 74-75 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Isaac Matthei | Rut: 76-77 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Vicente Matthei | Rut: 75-76 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Rodrigo Uribe | Rut: 77-78 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Matias Oyarzun | Rut: 79-80 | Cat: 1 | Área: SAPU | Estado: atendido
+Nombre: Diego Saldias | Rut: 78-79 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Matias Saldias | Rut: 80-81 | Cat: 3 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Isaac Quezada | Rut: 81-82 | Cat: 3 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Isaac Artes | Rut: 82-83 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Eduardo Utreras | Rut: 83-84 | Cat: 3 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Joaquin Saldias | Rut: 84-85 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Eduardo Artes | Rut: 85-86 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Martin Saldias | Rut: 86-87 | Cat: 3 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Vicente Allende | Rut: 87-88 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Martin Uribe | Rut: 88-89 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Nicolas Utreras | Rut: 89-90 | Cat: 2 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Vicente Allende | Rut: 91-92 | Cat: 3 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Rodrigo Artes | Rut: 90-91 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Matias Oyarzun | Rut: 92-93 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Eduardo Utreras | Rut: 93-94 | Cat: 3 | Área: SAPU | Estado: atendido
+Nombre: Joaquin Allende | Rut: 94-95 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Vicente Quezada | Rut: 95-96 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Diego Pinochet | Rut: 97-98 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Vicente Uribe | Rut: 96-97 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Matias Utreras | Rut: 98-99 | Cat: 2 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Benjamin Oyarzun | Rut: 99-100 | Cat: 1 | Área: SAPU | Estado: atendido
+Nombre: Martin Estay | Rut: 100-101 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Isaac Saldias | Rut: 101-102 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Benjamin Estay | Rut: 103-104 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Benjamin Utreras | Rut: 104-105 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Benjamin Quezada | Rut: 102-103 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Rodrigo Allende | Rut: 105-106 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Isaac Allende | Rut: 106-107 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Jeremias Pinochet | Rut: 107-108 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Eduardo Artes | Rut: 108-109 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Nicolas Oyarzun | Rut: 110-111 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Matias Matthei | Rut: 109-110 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Isaac Allende | Rut: 111-112 | Cat: 1 | Área: SAPU | Estado: atendido
+Nombre: Matias Matthei | Rut: 112-113 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Nicolas Saldias | Rut: 113-114 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Vicente Allende | Rut: 114-115 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Martin Pinochet | Rut: 115-116 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Vicente Pinochet | Rut: 116-117 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Diego Pinochet | Rut: 117-118 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Nicolas Matthei | Rut: 118-119 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Joaquin Artes | Rut: 119-120 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Matias Utreras | Rut: 120-121 | Cat: 2 | Área: SAPU | Estado: atendido
+Nombre: Benjamin Artes | Rut: 121-122 | Cat: 2 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Diego Artes | Rut: 122-123 | Cat: 1 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Diego Uribe | Rut: 123-124 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Jeremias Valenzuela | Rut: 124-125 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Martin Utreras | Rut: 125-126 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Matias Utreras | Rut: 126-127 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Martin Quezada | Rut: 127-128 | Cat: 4 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Matias Utreras | Rut: 128-129 | Cat: 2 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Joaquin Oyarzun | Rut: 129-130 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Diego Utreras | Rut: 130-131 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Nicolas Oyarzun | Rut: 131-132 | Cat: 1 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Joaquin Artes | Rut: 132-133 | Cat: 3 | Área: SAPU | Estado: atendido
+Nombre: Jeremias Utreras | Rut: 133-134 | Cat: 5 | Área: SAPU | Estado: atendido
+Nombre: Diego Artes | Rut: 134-135 | Cat: 4 | Área: SAPU | Estado: atendido
+Nombre: Rodrigo Uribe | Rut: 135-136 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Martin Saldias | Rut: 136-137 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Jeremias Saldias | Rut: 137-138 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Isaac Oyarzun | Rut: 138-139 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
+Nombre: Jeremias Oyarzun | Rut: 139-140 | Cat: 5 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Eduardo Valenzuela | Rut: 140-141 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Benjamin Pinochet | Rut: 141-142 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Jeremias Matthei | Rut: 142-143 | Cat: 4 | Área: Urgencias_Infantiles | Estado: atendido
+Nombre: Vicente Uribe | Rut: 143-144 | Cat: 5 | Área: Urgencias_Adultos | Estado: atendido
 
 --- Estadísticas por Categoría ---
-Categoría 1: 10 pacientes, espera promedio: 9,70 min
-Categoría 2: 21 pacientes, espera promedio: 11,19 min
-Categoría 3: 29 pacientes, espera promedio: 9,66 min
-Categoría 4: 40 pacientes, espera promedio: 11,25 min
-Categoría 5: 44 pacientes, espera promedio: 10,68 min
+Categoría 1: 7 pacientes, espera promedio: 9,57 min
+Categoría 2: 13 pacientes, espera promedio: 10,00 min
+Categoría 3: 18 pacientes, espera promedio: 9,17 min
+Categoría 4: 49 pacientes, espera promedio: 11,02 min
+Categoría 5: 57 pacientes, espera promedio: 12,11 min
 
 --- Pacientes que excedieron el tiempo máximo ---
-Nombre: Benjamin Uribe | Rut: 75-76 | Cat: 1 | Área: SAPU | Espera: 11 min (máx: 10)
-Nombre: Diego Uribe | Rut: 90-91 | Cat: 1 | Área: Urgencias_Adultos | Espera: 11 min (máx: 10)
+Nombre: Benjamin Oyarzun | Rut: 99-100 | Cat: 1 | Área: SAPU | Estado: atendido
+Nombre: Isaac Allende | Rut: 111-112 | Cat: 1 | Área: SAPU | Estado: atendido
