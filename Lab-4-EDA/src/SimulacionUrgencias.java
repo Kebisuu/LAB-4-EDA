@@ -18,7 +18,7 @@ public class SimulacionUrgencias {
     public void simular(int pacientesPorDia) {
         int idxNuevoPaciente = 0;
         int acumulados = 0;
-        for (int minuto = 0; minuto < DURACION_SIMULACION ; minuto++) {
+        for (int minuto = 0; minuto < DURACION_SIMULACION; minuto++) {
             if (minuto % 10 == 0 && idxNuevoPaciente < pacientesPorDia && idxNuevoPaciente < pacientesFuente.size()) {
                 Paciente nuevo = pacientesFuente.get(idxNuevoPaciente++);
                 nuevo.setTiempoLlegada(minuto);
@@ -42,6 +42,11 @@ public class SimulacionUrgencias {
             if (minuto % 15 == 0) {
                 atenderSiguientePaciente(minuto);
             }
+        }
+        int minutoFinal = DURACION_SIMULACION;
+        while (!cola.isEmpty()) {
+            atenderSiguientePaciente(minutoFinal);
+            minutoFinal++;
         }
         mostrarResultados();
     }
@@ -122,16 +127,18 @@ public class SimulacionUrgencias {
         List<Paciente> pacientes = cargarPacientesDesdeArchivo("pepesillos.csv");
         if (pacientes.isEmpty()) {
             System.out.println("No se encontraron pacientes en el archivo.");
-            return;}
+            return;
+        }
         SimulacionUrgencias simulador = new SimulacionUrgencias(pacientes);
-        simulador.simular(144);
+        simulador.simular(144); // 144 pacientes por día (ajusta si lo necesitas)
     }
     public static List<Paciente> cargarPacientesDesdeArchivo(String nombreArchivo) {
         List<Paciente> lista = new ArrayList<>();
         File archivo = new File(nombreArchivo);
         if (!archivo.exists()) {
             System.out.println("Error: Archivo no encontrado. Verifica que '" + nombreArchivo + "' existe en la carpeta correcta.");
-            return lista;}
+            return lista;
+        }
         try (BufferedReader br = new BufferedReader(new FileReader(archivo))) {
             String linea;
             while ((linea = br.readLine()) != null) {
